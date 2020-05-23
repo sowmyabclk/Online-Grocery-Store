@@ -1,8 +1,10 @@
-					 ### My Mart - Grocery Store
+					 ### My Mart
 
-### Description:The Website for Grocery Shopping , where in an user can search and find necessary information about any grocery item, can proceed to checkout to buy products.
+### Description
+The Website for Grocery Shopping , where in an user can search and find necessary information about any grocery item, can proceed to checkout to buy products.
 
-Web Technologies Used : HTML, CSS, ReactJS, ExpressJS, NodeJS
+### Web Technologies Used
+HTML, CSS, ReactJS, ExpressJS, NodeJS
 
 ### How to Run the Project
 
