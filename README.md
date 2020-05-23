@@ -1,4 +1,4 @@
-					 ### My Mart
+# My Mart - Online Grocery Store
 
 ### Description
 The Website for Grocery Shopping , where in an user can search and find necessary information about any grocery item, can proceed to checkout to buy products.
